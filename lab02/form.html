@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Form Input</title>
+</head>
+
+<body>
+    <h1 style="color: blue;">Contact Information</h1>
+
+    <form action="form.php" method="POST">
+        <div>
+            <p>Enter your email: </p>
+            <input type="text" size="16" maxlength="20" name="email">
+        </div>
+
+        <div>
+            <p>May we contact you ?</p>
+            <input type="radio" name="contact" value="yes">
+            <label>Yes</label>
+            <input type="radio" name="contact" value="no">
+            <label>No</label>
+        </div>
+        <input type="submit" value="Click To Submit">
+    </form>
+
+</body>
+
+</html>
