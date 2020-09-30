@@ -14,8 +14,8 @@
 $db = array(
     array("Le Quang","Hai Phong","123"),
     array("Dang Nam","Ha Noi","124"),
-    array("Quang Loc","Ha Tay","114")
-    
+    array("Quang Loc","Quang Ninh","114")
+
 );
 
 $count = 0;
@@ -29,7 +29,7 @@ foreach($db as $students){
     $count++;
 }
 
-?>	
+?>
 
 </table>
 </body>
