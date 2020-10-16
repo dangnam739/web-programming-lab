@@ -1,0 +1,37 @@
+<html lang="en">
+<head>
+    <title>Student information form</title>
+</head>
+
+<body>
+    <h1 style="text-align: center; color: blue; font-weight: bold">Student Information</h1>
+
+    <form action="ex2_9.php" method="post">
+        <br>
+        1. Your name:  <input type="text" maxlength="50" name="name">
+        <br><br>
+        2. Class:      <input type="text" maxlength="50" name="class">
+        <br><br>
+        3. University: <input type="text" maxlength="100" name="university">
+        <br><br>
+        4. Hobbies:<br>
+        <div style="padding-left: 30px">
+            <input type="checkbox" name="hobby[]" value="Soccer">Soccer
+            <br>
+            <input type="checkbox" name="hobby[]" value="Music">Music
+            <br>
+            <input type="checkbox" name="hobby[]" value="Swimming">Swimming
+            <br>
+            <input type="checkbox" name="hobby[]" value="Travel">Travel
+            <br>
+            <input type="checkbox" name="hobby[]" value="Reading book">Reading book
+            <br>
+            <input type="checkbox" name="hobby[]" value="Movie">Movie
+        </div>
+        <br><br>
+        <input type="submit" value="Click To Submit">
+        <input type="reset" value="Erase and Restart">
+    </form>
+</body>
+
+</html>
