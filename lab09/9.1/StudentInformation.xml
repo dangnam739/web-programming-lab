@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<student>
+    <name>
+        <firstname>Nam</firstname>
+        <lastname>Kieu Dang</lastname>
+    </name>
+    <gender>
+        Male
+    </gender>
+    <birthday>
+        07/03/1999
+    </birthday>
+    <city>
+        Hanoi
+    </city>
+    <university>
+        Hanoi University of Science and Technology
+    </university>
+    <class>
+        IS-03, Vietnam-Japan IT Program
+    </class>
+    <favorites>
+        Travel, Reading box,...
+    </favorites>
+    <contact>
+        <phone>0338787xxx</phone>
+        <mail>kieudangnam99@gmail.com</mail>
+        <address>Quoc Oai, Hanoi</address>
+    </contact>
+</student>
