@@ -1,5 +1,5 @@
 <html>
-<hed><title>Display list of products</title></hed>
+<head><title>Display list of products</title></head>
 <body>
 <?php
 $server = 'localhost';

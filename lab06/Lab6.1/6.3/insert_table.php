@@ -12,7 +12,7 @@
     $product_desc = $_POST["product_desc"];
     $cost = $_POST["cost"];
     $weight = $_POST["weight"];
-    $numb = $_POST["numb"];
+    $numb = $_POST["number"];
     if (!$connect) {
         die ("Cannot connect to $server using $user");
     } else {

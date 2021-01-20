@@ -22,7 +22,7 @@
     print ($c1->getCount() . "<br>\n");
 
     $c2 = new Counter();
-    print (Counter::getCount() . "<br>\n");
+    print (Counter.getCount() . "<br>\n");
 
     $c2 = NULL;
 

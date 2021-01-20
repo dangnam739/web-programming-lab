@@ -20,61 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6aa65653-e810-4d5e-a563-4479c9f849ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab08/8.2/8,.1/mypage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/8.2/8,.1/mystyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/8.2/8.2/div_layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/8.2/8.3/exercise1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/8.2/8.3/mystyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/8.2/8.4/exercise2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab06/6.2/6.2/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab06/6.2/6.2/login_form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab07/7.2/ProductProcess.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab07/7.2/ProductRequest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab07/7.3/DateProcessing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab07/7.3/checkDate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab07/7.5/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab07/7.5/validate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.1/StudentInformation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.2/MathML.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.4/japanFlag.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.5/exercise1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/57.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/EveningAtTheMoulinRouge.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/XMarksSpot.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/XMarksSpot_2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/ingredients.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/pet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/pettingZoo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/pettingZoo_2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/shapeOfThingToCome.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/sinCity.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/sinCity_2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09/9.7/sins.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.1/Hidden fields/order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.1/Hidden fields/order2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.1/Hidden fields/order3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.1/PHP Session/ordersession.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.1/PHP Session/session2order.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.1/PHP Session/session3order.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.1/User Browser Cookies/readcookie.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.1/User Browser Cookies/setcookie.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.1/User Browser Cookies/survey.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.2/PrefSelection.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.2/Prefs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.2/prefs-demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.4/check_login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.4/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.4/prefSelection.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.4/prefs-demo-session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/10.4/prefs-session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11/11.1/addTextFields.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11/11.1/array.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11/11.1/countTheFunctionCalls.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11/11.1/openNewFile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11/11.1/setControlAttr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11/11.1/validatePostalCodeAndMoney.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11/11.2/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11/11.2/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab05/5.3/Counter.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab05/5.3/Counter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06/6.2/6.2/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06/6.2/6.2/login_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06/Lab6.1/6.3/display.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab06/Lab6.1/6.3/display.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06/Lab6.1/6.3/insert.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab06/Lab6.1/6.3/insert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06/Lab6.1/6.3/insert_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab06/Lab6.1/6.3/insert_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06/Lab6.1/6.3/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab06/Lab6.1/6.3/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06/Lab6.1/6.3/update_product.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab06/Lab6.1/6.3/update_product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.4/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.4/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +175,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -252,6 +207,12 @@
       <workItem from="1606270760258" duration="10362000" />
       <workItem from="1606286874329" duration="2746000" />
       <workItem from="1606874658305" duration="8978000" />
+      <workItem from="1607435054246" duration="1268000" />
+      <workItem from="1608372045129" duration="499000" />
+      <workItem from="1608372738238" duration="494000" />
+      <workItem from="1610944988727" duration="1192000" />
+      <workItem from="1610972037419" duration="7234000" />
+      <workItem from="1611021206940" duration="7755000" />
     </task>
     <servers />
   </component>
@@ -271,6 +232,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610982156113">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1610982156113" />
     <state x="910" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605666528128">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -287,9 +252,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604222837496" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1603854334621">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="433" y="91" width="981" height="707" key="SettingsEditor" timestamp="1610980564518">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="433" y="91" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1610980564518" />
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603854334621" />
     <state x="344" y="105" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605671048003">
       <screen x="0" y="0" width="1536" height="834" />
@@ -299,9 +265,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="971" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1605665587475" />
-    <state x="815" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1606875138411">
+    <state x="815" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1610946172901">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="815" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1606875138411" />
+    <state x="815" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1610946172901" />
   </component>
 </project>
